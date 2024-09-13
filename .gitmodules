@@ -1,0 +1,6 @@
+[submodule "token-information-management-service"]
+	path = token-information-management-service
+	url = https://github.com/A-P-Kaviraj/token-information-management-service.git
+[submodule "access-key-management-service"]
+	path = access-key-management-service
+	url = https://github.com/A-P-Kaviraj/access-key-management-service.git
