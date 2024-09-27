@@ -1,5 +1,3 @@
-  Access Key and Token Information Management Services
-
 Access Key and Token Information Management Services
 ====================================================
 
